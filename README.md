@@ -7,4 +7,4 @@ Data was cleaned using Pandas (converting descriptive information to symbolic nu
 in Python using the Theano/Keras library. An accuracy of ~80% was obtained. This is especially good considering receiving between 82 and 84 percent accuracy
 places you in the top 1% on the competition leaderboard!
 
-Competiton details + details available [here.](https://www.kaggle.com/c/titanic/)
+Competiton details + details available [here.](https://www.kaggle.com/c/titanic/)# titanic
